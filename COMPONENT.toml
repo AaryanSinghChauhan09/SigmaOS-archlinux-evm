@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-evm"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-evm component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
